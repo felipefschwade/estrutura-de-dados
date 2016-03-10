@@ -20,7 +20,5 @@ public class TestePilha {
 		stack.push("Teste 2");
 		System.out.println(stack);
 		System.out.println(stack.pop());
-		
-		String page = "Page";
 	}
 }
